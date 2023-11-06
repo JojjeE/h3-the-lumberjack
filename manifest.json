@@ -517,5 +517,6 @@
 				}
 			}
 		}
-	]
+	],
+	"updateCheck": "https://github.com/JojjeE/h3-the-lumberjack/releases/latest/download/updates.json"
 }
