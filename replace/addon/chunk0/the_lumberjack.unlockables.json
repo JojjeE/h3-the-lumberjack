@@ -1,0 +1,25 @@
+{
+	"TOKEN_OUTFIT_HERO_THE_LUMBERJACK": {
+		"Id": "TOKEN_OUTFIT_HERO_THE_LUMBERJACK",
+		"Guid": "076e862d-55d0-405f-b926-b17fe334324d",
+		"Type": "disguise",
+		"Subtype": "casual",
+		"ImageId": "",
+		"RMTPrice": -1,
+		"GamePrice": -1,
+		"IsPurchasable": false,
+		"IsPublished": true,
+		"IsDroppable": false,
+		"Capabilities": [],
+		"Qualities": {},
+		"Properties": {
+			"Quality": 2,
+			"Rarity": "common",
+			"LoadoutSlot": "disguise",
+			"IsConsumable": false,
+			"RepositoryId": "88696876-5348-44fc-bc20-3a75853d0a97",
+			"OrderIndex": 21
+		},
+		"Rarity": "common"
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"88696876-5348-44fc-bc20-3a75853d0a97": {
+		"ID_": "88696876-5348-44fc-bc20-3a75853d0a97",
+		"CommonName": "CHAR_Global_Hero_THE_LUMBERJACK_M",
+		"Description": "UI_TOKEN_OUTFIT_HERO_THE_LUMBERJACK_DESC",
+		"HeroDisguiseAvailable": true,
+		"Image": "images/unlockables_override/47_Outfits_THE_LUMBERJACK.jpg",
+		"IsHitmanSuit": true,
+		"Name": "UI_TOKEN_OUTFIT_HERO_THE_LUMBERJACK_NAME",
+		"Category": "",
+		"ImageTransparent": "",
+		"TokenID": "TOKEN_OUTFIT_HERO_THE_LUMBERJACK"
+	}
+}

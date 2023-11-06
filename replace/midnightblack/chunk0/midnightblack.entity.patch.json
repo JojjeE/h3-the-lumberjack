@@ -1,0 +1,21 @@
+{
+	"tempHash": "00097AA87B144150",
+	"tbluHash": "00E738E7CF7A35E1",
+	"patch": [
+		{ "SubEntityOperation": ["e841aa25af6219ed", { "SetFactory": "00226500129DAE6F" }] },
+		{ "SubEntityOperation": ["e841aa25af6219ed", { "SetBlueprint": "00C20A675DAE3EAA" }] },
+		{
+			"SubEntityOperation": [
+				"342341822acc1080",
+				{ "SetPropertyValue": { "property_name": "m_eSoundFootwearType", "value": "EFWT_BOOTS" } }
+			]
+		},
+		{
+			"SubEntityOperation": [
+				"342341822acc1080",
+				{ "SetPropertyValue": { "property_name": "m_eOutfitAICategory", "value": "OAC_47COLORADO" } }
+			]
+		}
+	],
+	"patchVersion": 6
+}
