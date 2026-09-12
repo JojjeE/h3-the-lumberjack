@@ -1,0 +1,11 @@
+{
+	"id": "00D6AAA15BD7069F",
+	"type": "PRIM",
+	"references": [
+		"00B5A7F5183C0123",
+		{
+			"resource": "[assembly:/_pro/characters/assets/individuals/colorado/ezraberg/materials/male_reg_ezraberg_shirt.mi].pc_mi",
+			"type": "normal"
+		}
+	]
+}

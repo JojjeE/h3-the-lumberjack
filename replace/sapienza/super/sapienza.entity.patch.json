@@ -1,0 +1,33 @@
+{
+	"factory": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entitytype",
+	"blueprint": "[assembly:/_pro/scenes/bricks/globaldata.brick].pc_entityblueprint",
+	"patch": [
+		{ "PatchEntity": ["ad9ed900947e196b", { "SetFactory": "00226500129DAE6F" }] },
+		{ "PatchEntity": ["ad9ed900947e196b", { "SetBlueprint": "00C20A675DAE3EAA" }] },
+		{
+			"PatchEntity": [
+				"f70bc7e3f4cb0f2b",
+				{
+					"PatchPropertyValue": [
+						"m_eSoundFootwearType",
+						{ "Set": { "type": "EHM5SoundFootwearType", "value": "EFWT_BOOTS" } },
+						false
+					]
+				}
+			]
+		},
+		{
+			"PatchEntity": [
+				"f70bc7e3f4cb0f2b",
+				{
+					"PatchPropertyValue": [
+						"m_eOutfitAICategory",
+						{ "Set": { "type": "EOutfitAICategory", "value": "OAC_47COLORADO" } },
+						false
+					]
+				}
+			]
+		}
+	],
+	"patchVersion": 7
+}

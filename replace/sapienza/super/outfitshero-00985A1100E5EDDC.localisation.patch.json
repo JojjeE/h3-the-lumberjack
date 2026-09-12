@@ -1,0 +1,21 @@
+{
+	"id": "[assembly:/localization/hitman6/conversations/ui/pro/online/repository/outfits_hero.sweetmenutext].pc_localized-textlist",
+	"lines": {
+		"46CBFCE2-9556-4740-9DAA-3670301D23EA_SAPIENZA_HERO_SAPIENZASUITNOGLASSESANDGLOVES_M_HPA2795_DESCRIPTION_": {
+			"english": "When the fall chill starts creeping in, bundle up in this flannel shirt. People looking at you will be able to tell that you are a lumberjack. And that you are okay.",
+			"french": "Lorsque la fraîcheur de l'automne commencera à se faire sentir, emmitouflez-vous dans cette chemise en flanelle. Les gens qui vous regarderont pourront dire que vous êtes un bûcheron. Et que vous allez bien.",
+			"german": "Wenn die Herbstkälte hereinbricht, wickeln Sie sich in dieses Flanellhemd ein. Die Leute, die dich ansehen, werden erkennen, dass du ein Holzfäller bist. Und dass es dir gut geht.",
+			"italian": "Quando il freddo autunnale inizia ad insinuarsi, copritevi con questa camicia di flanella. Chi vi guarderà potrà dire che siete un boscaiolo. E che state bene.",
+			"russian": "Когда наступит осенняя прохлада, закутайтесь в эту фланелевую рубашку. Люди, глядя на вас, смогут сказать, что вы - дровосек. И что с вами все в порядке.",
+			"spanish": "Cuando empiece a refrescar, abrígate con esta camisa de franela. La gente que te mire sabrá que eres un leñador. Y que estás bien."
+		},
+		"46CBFCE2-9556-4740-9DAA-3670301D23EA_SAPIENZA_HERO_SAPIENZASUITNOGLASSESANDGLOVES_M_HPA2795_NAME_": {
+			"english": "The Lumberjack",
+			"french": "Le Bûcheron",
+			"german": "Der Holzfäller",
+			"italian": "Il boscaiolo",
+			"russian": "Дровосек",
+			"spanish": "El Leñador"
+		}
+	}
+}
