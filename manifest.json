@@ -47,7 +47,7 @@
 					}
 				},
 				{
-					"id": "lj-install-casual",
+					"id": "lj-install-bangkok",
 					"name": "Casual Suit with Gloves",
 					"data": {
 						"contentFolders": ["replace/bangkok"],
@@ -55,7 +55,7 @@
 					}
 				},
 				{
-					"id": "lj-install-italian",
+					"id": "lj-install-sapienza",
 					"name": "Italian Suit with Gloves",
 					"data": {
 						"contentFolders": ["replace/sapienza"],
@@ -63,7 +63,7 @@
 					}
 				},
 				{
-					"id": "lj-install-floridafit",
+					"id": "lj-install-miami",
 					"name": "Florida Fit with Gloves",
 					"data": {
 						"contentFolders": ["replace/miami"],
@@ -71,7 +71,7 @@
 					}
 				},
 				{
-					"id": "lj-install-tourist",
+					"id": "lj-install-sanfortuna",
 					"name": "Casual Tourist with Gloves",
 					"data": {
 						"contentFolders": ["replace/sanfortuna"],
@@ -87,7 +87,7 @@
 					}
 				},
 				{
-					"id": "lj-install-sightseeing",
+					"id": "lj-install-summersightseeing",
 					"name": "Summer Sightseeing Suit",
 					"data": {
 						"contentFolders": ["replace/summersightseeing"],
@@ -95,7 +95,7 @@
 					}
 				},
 				{
-					"id": "lj-install-undercover",
+					"id": "lj-install-casualundercover",
 					"name": "Casual Undercover",
 					"data": {
 						"contentFolders": ["replace/casualundercover"],
@@ -111,7 +111,7 @@
 					}
 				},
 				{
-					"id": "lj-install-summersuit",
+					"id": "lj-install-marrakesh",
 					"name": "Summer Suit with Gloves",
 					"data": {
 						"contentFolders": ["replace/marrakesh"],
@@ -119,7 +119,7 @@
 					}
 				},
 				{
-					"id": "lj-install-tropical",
+					"id": "lj-install-tropicalsuit",
 					"name": "Tropical Suit",
 					"data": {
 						"contentFolders": ["replace/tropicalsuit"],
@@ -143,7 +143,7 @@
 					}
 				},
 				{
-					"id": "lj-install-ducky",
+					"id": "lj-install-luckyducky",
 					"name": "Lucky Ducky",
 					"data": {
 						"contentFolders": ["replace/luckyducky"],
