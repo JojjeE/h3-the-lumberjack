@@ -18,7 +18,7 @@
 				{
 					"id": "lj-install-peacock",
 					"name": "Peacock Addon",
-					"description": "Install the suit to your game as an addon without replacing existing suits. This will only work if you're playing with Peacock.",
+					"description": "Install the suit to your game as an addon without replacing existing suits. This will only work if you're playing with Peacock, or offline.",
 					"data": {
 						"contentFolders": ["replace/addon"],
 						"blobFolders": ["blobs/addon"],
