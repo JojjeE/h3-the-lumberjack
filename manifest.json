@@ -4,7 +4,7 @@
 	"description": "When the fall chill starts creeping in, bundle up in this flannel shirt. People looking at you will be able to tell that you are a lumberjack. And that you are okay.",
 	"authors": ["Jojje"],
 	"version": "1.0.0",
-	"frameworkVersion": "3.0.0",
+	"frameworkVersion": "3.0.0-rc.4",
 	"url": "https://github.com/JojjeE/h3-the-lumberjack",
 	"conditions": { "supportedGames": ["h3"] },
 	"data": { "contentFolders": ["base"] },
